@@ -2,11 +2,11 @@ This is a group task project for Parallel Programming course for class07:
 
 Kelompok 7
 
-- _M. Riza iqbal L_ (1806280501)
-- _Irwan Priyanto_ (1806280483)
-- _Dian Arianto_ (1706124043)
-- _Kris Mulyandani Putra_ (1806280496)
-- _Chandra Prasetya S_ (1806280382)
+- _M. Riza iqbal L_ 
+- _Irwan Priyanto_ 
+- _Dian Arianto_ 
+- _Kris Mulyandani Putra_ 
+- _Chandra Prasetya S_ 
 
 ## Requirements:
 
